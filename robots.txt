@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ntedgent.github.io/sitemap.ntedgent.gz
+Sitemap: https://ntedgent.github.io/app/sitemap.ntedgent.gz
+Sitemap: https://ntedgent.github.io/assets/sitemap.ntedgent.gz
+Sitemap: https://ntedgent.github.io/css/sitemap.ntedgent.gz
+Sitemap: https://ntedgent.github.io/data/sitemap.ntedgent.gz
+Sitemap: https://ntedgent.github.io/includes/sitemap.ntedgent.gz
+Sitemap: https://ntedgent.github.io/item/sitemap.ntedgent.gz
+Sitemap: https://ntedgent.github.io/src/sitemap.ntedgent.gz
